@@ -1,3 +1,7 @@
+/**
+ * Implementation and logic by- Re'i Shaul E-mail: reishaul1@gmail.com
+ */
+
 import javax.swing.*;
 import javax.swing.plaf.ColorUIResource;
 import java.awt.*;
