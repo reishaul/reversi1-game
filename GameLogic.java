@@ -1,5 +1,5 @@
 /**
- * Implementation and logic by- RON AVRAHAM ID: 208007005 and REI SHAUL-ID: 325390086, E-mail: reishaul1@gmail.com
+ * Implementation and logic by- Re'i Shaul E-mail: reishaul1@gmail.com
  * This class implements the core functionality and rules of the game. It manages the game board, players, turns,
  * and game-specific operations such as placing discs, validating moves, flipping discs, and handling special disc types
  * like bombs and unflippable discs. It also provides methods to check the game's state, undo moves, and reset the game.
